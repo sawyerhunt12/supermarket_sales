@@ -49,7 +49,7 @@ The most popular product lines were ranked for each branch based on sales totals
 
 ## How to Reproduce the Analysis
 
-Import the dataset into a relational database or SQL tool of your choice.
+Import the supermarket_sales.csv file located in this repository into a relational database or SQL tool of your choice.
 
 Use the provided SQL queries to analyze the data.
 
