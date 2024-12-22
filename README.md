@@ -53,6 +53,8 @@ Import the supermarket_sales.csv file located in this repository into a relation
 
 Use the provided SQL queries to analyze the data.
 
+Additionally, you can import the supermarket_sales.csv file into the csv fiddle site at the link above where the queries are already saved.
+
 ## Conclusion
 
 This analysis provides actionable insights for supermarket management to optimize operations, improve sales strategies, and enhance customer experience.
