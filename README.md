@@ -56,3 +56,5 @@ Use the provided SQL queries to analyze the data.
 ## Conclusion
 
 This analysis provides actionable insights for supermarket management to optimize operations, improve sales strategies, and enhance customer experience.
+
+This data was sourced from Kaggle, which can be found here: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales/data
